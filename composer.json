@@ -19,6 +19,6 @@
     }
   ],
   "require": {
-    "machbarmacher/gdpr-dump": "*"
+    "uncinc/gdpr-dump": "*"
   }
 }
